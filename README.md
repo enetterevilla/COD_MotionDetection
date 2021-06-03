@@ -6,4 +6,4 @@ COD_Motion_Detection_ForGitHub.m is the adaptive data-driven motion detection al
 2. You can change the start and end time, alongside with alpha, n_max and scout_segments. Note: The recommended n_max for a 90-min FDG scan is 300. 
 
 # Results
-The most important result would be "MFF_union_all.mat". It contains the motion-free frame (MFF) information to be used for frame reconstruction and registration later on.
+The most important result would be "MFF_union_all.mat". It contains the motion-free frame (MFF) information (start and end time) to be used for frame reconstruction and registration later on.
